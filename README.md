@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A cosmic web developer with 2 years of experience crafting out-of-this-world websites that are not only visually stunning but also supernova fast. Skilled in JavaScript and PHP, my mission is to create user-friendly and high-performing websites that will leave you starstruck. Always on the lookout for new galaxies of technology and trends to explore.</p>
+<p align="left">A cosmic web developer with 3 years of experience crafting out-of-this-world websites that are not only visually stunning but also supernova fast. Skilled in JavaScript and PHP, my mission is to create user-friendly and high-performing websites that will leave you starstruck. Always on the lookout for new galaxies of technology and trends to explore.</p>
 
 ###
 
